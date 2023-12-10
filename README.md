@@ -2,8 +2,6 @@
 
 Título del Proyecto: Pokemon Challenge
 
-<span>https://www.impericon.com/780x240x90/media/impericon/header/entertainment/pok%C3%A9mon/20161101_pokemon_mobile@2x.jpg</span>
-
 Descripción:
 El proyecto "Pokemon Challenge" es una aplicación web desarrollada con React, dedicada a la exploración y captura de Pokémon. La aplicación presenta una lista de todos los Pokémon disponibles, obtenidos mediante la integración con la API de PokeAPI. Los usuarios pueden explorar la lista, visualizando detalles de cada Pokémon.
 
